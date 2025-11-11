@@ -1,48 +1,66 @@
-# Igor Danilov - Middle Front-End Developer && Full Stack Developer ( ReactJS+NodeJs[Express] )
+# 👨‍💻 Igor Danilov  
+**Middle Front-End Developer | Full Stack (ReactJS + NodeJS / Express)**  
 
-## About Me
-I’m 30-th years old. I like sports, cars, traveling and code of course. I’m really love my job and what I do, I like to work in a team and achieve high results. I’m very persistent in work and in life; I’m not used to giving up! I love active recreation and car trips. Active participate to English speaking club! 
-## Active use AI tools so to get faster results, for example GitHub Copilot, Chat GPT, Gemini, Kombai and others
+## 🧠 About Me  
+I’m a 30-year-old developer passionate about building clean, efficient, and user-friendly web applications.  
+I love working in teams, solving complex problems, and continuously improving my skills. Persistent, curious, and detail-oriented — I never give up until the task is done.  
+Outside of coding, I enjoy sports, cars, traveling, and participating in English-speaking clubs.  
 
-## Skills
-- **Languages:** JavaScript, TypeScript, HTML, CSS
-- **Frameworks:** ReactJS, NextJs, NodeJS(Express), Chakra UI
-- **Tools:** Git/GitLab, Webpack, ESLint, Jest, TypeScript, 
-- **Others:** Responsive Design, REST API, Stripe, Web Socket, Sentry, ngrok
+💡 **Actively use AI tools** — GitHub Copilot, ChatGPT, Gemini, Kombai, and others — to accelerate development and improve quality.  
 
-## Experience
+---
 
-### Full Stack Developer at Crawless Company
-*April 2023 - to present*
-- Developing web app on Next js and developing back-end on NodeJs (Express). 
-- Create new feature, fix bug, integration payment system and setting flow payment with Stripe service. 
-- We use Next js with TypeScript, Directus CRM, custom styles, GitLab, MobX
+## 🛠️ Tech Stack  
 
-### Front-End Developer at Straus Food Delivery
-*September 2021 - April 2023*
-- Developing service food delivery on Next js. 
-- Create a new features and fixing bugs. 
-- We use Next js+TypeScript, Chakra UI, ngrok service, Sentry for catch global errors to web app, GitLab, Auth0 for authorization
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3  
+- **Frameworks & Libraries:** React.js, Next.js, Node.js (Express), Chakra UI, React Native  
+- **Tools:** Git, GitLab, Webpack, ESLint, Jest, TypeScript, ngrok  
+- **Other Skills:** Responsive Design, REST API, Stripe Integration, WebSocket, Sentry, Firebase  
 
+---
 
-### Front-End Developer at EBS Integrator Company
-*Apil 2020 - August 2021*
-- Creation, development and support of interactive SPA on ReactJs and NextJs. 
-- We use Git, our UI kit, TypeScript and Redux
+## 💼 Experience  
 
+### 📱 Mobile Developer — Agenda Med  
+*December 2024 – Present*  
+- Developing the front-end part of a **React Native** application for healthcare services.  
+- Implemented integration with **Firebase** for data storage and authentication.  
+- Focused on performance optimization and cross-platform compatibility.  
+- Stack: React Native, Firebase, TypeScript  
 
-## Languages
-- **English:** intermediate
-- **Russian:** native speaker
+### 🧩 Full Stack Developer — Crawless Company  
+*April 2023 – March 2025*  
+- Developed a web app using **Next.js** and backend with **Node.js (Express)**  
+- Implemented payment flow and Stripe integration  
+- Delivered new features and fixed production bugs  
+- Stack: TypeScript, Next.js, Directus CRM, GitLab, MobX  
 
-## Waiting for payment 
- - Full time - from 3K euro per month
- - Part-time from 20 euro per hour
+### 🍔 Front-End Developer — Straus Food Delivery  
+*September 2021 – April 2023*  
+- Built and maintained a food delivery service on **Next.js + TypeScript**  
+- Integrated **Auth0** for authentication and **Sentry** for error tracking  
+- Worked with **Chakra UI** and **ngrok** for local testing  
+- Collaborated in a cross-functional team using GitLab  
 
+### 🏗️ Front-End Developer — EBS Integrator  
+*April 2020 – August 2021*  
+- Created and supported interactive SPAs using **React.js** and **Next.js**  
+- Contributed to company’s custom **UI Kit**  
+- Used **Redux**, **TypeScript**, and **Git** for version control  
 
-## Contact
-- **Email:** igor.danilov1824@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/igor-danilov-b025001a5/
-- **GitHub:** https://github.com/igor-danilov1994
-- **Telegramm:** https://t.me/IgorDanilovOnline
-- **Viber:** +37377792864
+---
+
+## 🌍 Languages  
+- **English:** Intermediate (actively improving)  
+- **Russian:** Native  
+
+---
+
+## 📞 Contact  
+- 📧 **Email:** [igor.danilov1824@gmail.com](mailto:igor.danilov1824@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/igor-danilov-b025001a5](https://www.linkedin.com/in/igor-danilov-b025001a5/)  
+- 🐙 **GitHub:** [github.com/igor-danilov1994](https://github.com/igor-danilov1994)  
+- 💬 **Telegram:** [@IgorDanilovOnline](https://t.me/IgorDanilovOnline)  
+- 📱 **Viber:** +37377792864  
+
+---
