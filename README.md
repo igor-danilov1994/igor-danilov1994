@@ -6,7 +6,7 @@ I’m a 30-year-old developer passionate about building clean, efficient, and us
 I love working in teams, solving complex problems, and continuously improving my skills. Persistent, curious, and detail-oriented — I never give up until the task is done.  
 Outside of coding, I enjoy sports, cars, traveling, and participating in English-speaking clubs.  
 
-💡 **Actively use AI tools** — GitHub Copilot, ChatGPT, Gemini, Kombai, and others — to accelerate development and improve quality.  
+💡 **Actively use AI tools** — GitHub Copilot, ChatGPT, Gemini, Kombai, Cursor and others — to accelerate development and improve quality.  
 
 ---
 
