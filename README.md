@@ -1,5 +1,5 @@
 # 👨‍💻 Igor Danilov  
-**Middle Front-End Developer | Full Stack (ReactJS + NodeJS / Express)**  
+**Full Stack (ReactJS + NodeJS )**  
 
 ## 🧠 About Me  
 I’m a 30-year-old developer passionate about building clean, efficient, and user-friendly web applications.  
